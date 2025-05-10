@@ -36,70 +36,96 @@ I'm enrolled in a **9-month intensive mentorship** at **[WeUpSkill.ai](https://w
 
 ---
 
-🔍 Featured Repositories
-📌 autostore-uptime-forecasting
-🧠 Description
-A predictive analytics project focused on estimating system uptime and identifying potential failure risks in AutoStore warehouse systems. Built using historical maintenance logs and machine telemetry data to support smarter maintenance planning.
+### 🔍 Featured Repositories
+### 📌 **Autostore Uptime Forecasting**
 
-🛠️ Tech Stack
-Python • Pandas • Scikit-learn • XGBoost
+🧠 **Description**:
 
-🚀 Skills Applied
-Time Series Forecasting • Data Preprocessing • Model Evaluation
+  A predictive analytics project focused on estimating system uptime and identifying potential failure risks in AutoStore warehouse systems. Built using historical maintenance logs and machine telemetry data to support smarter maintenance planning.
 
-🔗 Project Link: Coming Soon
----
-📌 plc-data-analysis-dashboard
-🧠 Description
-An end-to-end BI dashboard designed to integrate PLC operational data with predictive alerts. This dashboard, built using Power BI, provides actionable insights for industrial automation.
+### 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Power BI • SQL • Excel
+• Python • Pandas • Scikit-learn • XGBoost
 
-🚀 Skills Applied
-Dashboard Design • Data Transformation • Visual Analytics
+### 🚀 Skills Applied
+
+• Time Series Forecasting • Data Preprocessing • Model Evaluation
 
 🔗 Project Link: Coming Soon
----
-📌 agv-performance-analysis
-🧠 Description
-Exploratory data analysis of AGV (Automated Guided Vehicle) movements and productivity in a logistics warehouse. This project applies clustering and unsupervised learning techniques to optimize AGV efficiency.
 
-🛠️ Tech Stack
-Python • NumPy • Seaborn • Scikit-learn
+### 📌 **Plc-Data-Analysis-Dashboard**
 
-🚀 Skills Applied
-Clustering • Dimensionality Reduction • Visualization
+🧠**Description**:
 
-🔗 Project Link: Coming Soon
----
-📌 predictive-maintenance-ml
-🧠 Description
-A machine learning pipeline for predictive maintenance in conveyor systems, using sensor data to predict potential failures and maintenance needs.
+  An end-to-end BI dashboard designed to integrate PLC operational data with predictive alerts. This dashboard, built using Power BI, provides actionable insights for industrial automation.
 
-🛠️ Tech Stack
-Python • Keras • TensorFlow • Streamlit
+### 🛠️ Tech Stack
 
-🚀 Skills Applied
-Supervised Learning • Classification • Streamlit App Deployment
+• Power BI • SQL • Excel
+
+### 🚀 Skills Applied
+
+• Dashboard Design • Data Transformation • Visual Analytics
 
 🔗 Project Link: Coming Soon
+
+### 📌 **Agv-Performance-Analysis**
+
+🧠 **Description**:
+
+  Exploratory data analysis of AGV (Automated Guided Vehicle) movements and productivity in a logistics warehouse. This project applies clustering and unsupervised learning techniques to optimize AGV efficiency.
+
+### 🛠️ Tech Stack
+
+• Python • NumPy • Seaborn • Scikit-learn
+
+### 🚀 Skills Applied
+
+• Clustering • Dimensionality Reduction • Visualization
+
+🔗 Project Link: Coming Soon
+
+### 📌 **Predictive-Maintenance-ML**
+
+🧠 **Description**:
+
+  A machine learning pipeline for predictive maintenance in conveyor systems, using sensor data to predict potential failures and maintenance needs.
+
+### 🛠️ Tech Stack
+
+• Python • Keras • TensorFlow • Streamlit
+
+### 🚀 Skills Applied
+
+• Supervised Learning • Classification • Streamlit App Deployment
+
+🔗 Project Link: Coming Soon
+
 ---
-🔧 Technical Skills
-Languages
-Python • SQL • Ladder Logic (PLC) • C#
 
-Libraries & Frameworks
-Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Streamlit
+### 🔧 **Technical Skills**
 
-BI Tools
-Power BI • Tableau
 
-Automation Tools
-Siemens TIA Portal • Beckhoff TwinCAT • WinCC • SCADA
+### **Languages**
+• Python • SQL • (ST, FBD, SFC, IL, Ladder Logic (PLC)) • C#
 
-Concepts
-Predictive Maintenance • AI in Automation • ML for Logistics • Data Pipeline Design
+
+### **Libraries & Frameworks**
+• Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Streamlit
+
+
+### **BI Tools**
+• Power BI • Tableau
+
+
+### **Automation Tools**
+• Siemens TIA Portal • Beckhoff TwinCAT • WinCC • SCADA
+
+### **Concepts**
+• Predictive Maintenance • AI in Automation • ML for Logistics • Data Pipeline Design
+
 ---
-📈 Current Focus
+
+### 📈 **Current Focus**
+
 I’m actively building industrial-grade AI projects using real-world warehouse and automation datasets from my 18+ years of experience. I’m blending these datasets with machine learning, optimization, and visualization techniques to develop smart, data-driven systems for modern automation.
